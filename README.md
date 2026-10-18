@@ -1,55 +1,51 @@
-<div align="center">
+<!-- Upload README.md and the assets folder together. -->
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Nihal Mrahar — Code. Markets. Machine learning. ੴ ਨਿਹਾਲ. Khanda with subtle patterns." />
+</p>
 
-Hi, I’m Nihal 👋
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=9F8BFF&center=true&vCenter=true&width=650&height=50&lines=Student+developer+%2B+creative+problem+solver;Building+at+the+intersection+of+tech+%2B+business;Learning+by+making+things+people+can+use" />
-  <img alt="Animated introduction: student developer, tech and business, learning by building" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=673AB7&center=true&vCenter=true&width=650&height=50&lines=Student+developer+%2B+creative+problem+solver;Building+at+the+intersection+of+tech+%2B+business;Learning+by+making+things+people+can+use" />
-</picture>
+<p align="center">
+  <a href="#languages">LANGUAGES</a> &nbsp; / &nbsp;
+  <a href="#interests">INTERESTS</a> &nbsp; / &nbsp;
+  <a href="#unesco">UNESCO</a>
+</p>
 
+<p align="center">Exploring code, financial markets, and machine learning.<br><sub>Punjabi roots. Sikh identity. Always learning.</sub></p>
 
+## Languages
 
+<p align="center">
+  <a href="https://github.com/topics/html"><img src="./assets/html5.svg" width="15%" alt="HTML" /></a>
+  <a href="https://github.com/topics/css"><img src="./assets/css3.svg" width="15%" alt="CSS" /></a>
+  <a href="https://github.com/topics/java"><img src="./assets/java.svg" width="15%" alt="Java" /></a>
+  <a href="https://github.com/topics/javascript"><img src="./assets/javascript.svg" width="15%" alt="JavaScript" /></a>
+  <a href="https://github.com/topics/cpp"><img src="./assets/cplusplus.svg" width="15%" alt="C++" /></a>
+  <a href="https://github.com/topics/python"><img src="./assets/python.svg" width="15%" alt="Python" /></a>
+</p>
 
+## Interests
 
+<img src="./assets/signals.svg" width="100%" alt="Animated illustrative candlesticks alongside a neural network. Stocks, trading, and machine learning." />
 
-Code, design, and ideas that make a difference.
-About me · Explore · What’s next
-</div>
-
-About me
-I’m a Grade 11 student interested in computer science, business, and finance. I enjoy solving problems with code, designing experiences that feel good to use, and working with people to turn ideas into real projects.
-- 💻 Coding: Java exercises and Python projects; exploring ways to give my programs a better interface.
-- 🎨 Creating: Graphic design, video editing, and content for social media.
-- 🤝 Leading: Student initiatives through UNESCO Club and involvement in Junior Achievement, Commerce Club, and Cyber Defence Club.
-- 🌍 Languages: English, Hindi, and Punjabi.
-Choose a path
 <details>
-<summary><strong>💻 Code & projects — what am I building?</strong></summary>
-<br>
+<summary><strong>↗ Stocks &amp; trading</strong></summary>
 
-I’ve been building Java programs that solve logic and math problems, and I’m interested in bringing them together in a simple, calculator-like interface. I also experiment with Python and web and app development.
-What I care about: clear logic, useful features, and an interface that makes the result easy to understand.
+Interested in financial markets, price action, and the patterns behind the charts.
+
 </details>
 
 <details>
-<summary><strong>🎨 Design & creativity — what else do I make?</strong></summary>
-<br>
+<summary><strong>⌘ Code &amp; machine learning</strong></summary>
 
-I like the creative side of technology: layouts, graphics, promotional content, and video. Good design helps an idea connect with the people it’s meant for.
+I code in HTML, CSS, Java, JavaScript, C++, and Python. I’m especially interested in machine learning and exploring what I can build with it.
+
 </details>
 
-<details>
-<summary><strong>🤝 Leadership & community — what drives me?</strong></summary>
-<br>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-I enjoy organizing projects, hearing different perspectives, and helping a team move from brainstorming to action. My school clubs have given me opportunities to practice communication, outreach, and collaboration.
-</details>
+## UNESCO
 
-What’s next
-[✓] Keep learning Java and Python
-[→] Turn console programs into tools people can actually use
-[→] Build projects that combine technology, design, and business
-<div align="center">
+<img src="./assets/community.svg" width="100%" alt="Lead Youth Advisor · UNESCO Club. Connecting people, sharing ideas, and bringing student initiatives to life." />
 
-Always learning. Always building.
-<sub>Open a section above to explore more 👆</sub>
-</div>
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Build. Learn. Repeat." />
+</p>
